@@ -1,0 +1,1 @@
+# Hive Metastore Standalone with DB external storage and S3 connection
